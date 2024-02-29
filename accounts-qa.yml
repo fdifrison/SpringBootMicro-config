@@ -1,2 +1,4 @@
 build:
   version: "1.0-qa-modByActuatorBusRealTime"
+accounts:
+  message: "Welcome to Fdifrison accounts related TEST-BUS APIs "
