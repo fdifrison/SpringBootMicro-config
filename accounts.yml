@@ -1,5 +1,5 @@
 build:
-  version: "1.0"
+  version: "1.0-modInGitHub"
 
 accounts:
   message: "Welcome to Fdifrison accounts related ${spring.profiles.active} APIs "
